@@ -1,2 +1,2 @@
 # crDroid-UNOFFICIAL
-UNOFFICIAL builds of crDroid for exynos9810 devices
+crDroid 12.11 [UNOFFICIAL] [TESTBUILDS]
